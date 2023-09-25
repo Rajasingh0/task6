@@ -38,7 +38,7 @@ pipeline {
 
  
 
-                    mail to: "rajasinghbhataria@gmail.com",
+                    mail to: "rajasinghbhataria02@gmail.com",
 
  
 
